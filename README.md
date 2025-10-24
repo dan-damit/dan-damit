@@ -5,6 +5,7 @@
 
 ## 💼 Resume
 - [Latest Resume](https://thedamits.com/dan/Resume.html)
+- [PowerShell Philosophy](https://thedamits.com/dan/Dan.Damit_PowerShell_Profile.html)
 
 ## 🔧 Skills
 - PowerShell, C#, WPF/XAML, WiX, NSIS
