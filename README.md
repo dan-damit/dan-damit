@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Dan 👋
 
-<!--
-**dan-damit/dan-damit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Deployment engineer & systems architect  
+⚡ Specializing in modular automation, fleet-scale deployments, and technician-first tooling  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- PowerShell, C#, WPF/XAML, WiX, NSIS
+- Fleet deployments & DSC v3
+- Windows internals & network security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [Workstation.Deployment.Toolkit](https://github.com/yourhandle/Workstation.Deployment.Toolkit)
+- [DSC v3 Pipeline](https://github.com/yourhandle/dsc-pipeline)
+
+## 📊 GitHub Stats
+![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourhandle&show_icons=true&theme=radical)
+
+## 🌐 Connect
+[LinkedIn](https://linkedin.com/in/yourhandle) • [Website](https://yourdomain.com)
