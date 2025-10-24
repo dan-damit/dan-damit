@@ -1,7 +1,10 @@
 # Hi, I'm Dan 👋
 
-🚀 Deployment engineer & systems architect  
-⚡ Specializing in modular automation, fleet-scale deployments, and technician-first tooling  
+🚀 Deployment engineer & systems architect (and of course the IT Support) 
+⚡ Specializing in modular automation, fleet-scale deployments, and technician-first tooling (and of course the IT Support)
+
+## Resume
+- [Latest Resume](https://thedamits.com/dan/Resume.html)
 
 ## 🔧 Skills
 - PowerShell, C#, WPF/XAML, WiX, NSIS
