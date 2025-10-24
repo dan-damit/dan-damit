@@ -19,4 +19,4 @@
 ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourhandle&show_icons=true&theme=radical)
 
 ## 🌐 Connect
-[LinkedIn](https://linkedin.com/in/yourhandle) • [Website](thedamits.com)
+[LinkedIn](https://www.linkedin.com/in/daniel-damit/) • [Website](thedamits.com)
