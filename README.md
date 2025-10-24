@@ -1,6 +1,6 @@
 # Hi, I'm Dan 👋
 
-🚀 Deployment engineer & systems architect (and of course the IT Support) 
+🚀 Deployment engineer & systems architect (and of course the IT Support)  
 ⚡ Specializing in modular automation, fleet-scale deployments, and technician-first tooling (and of course the IT Support)
 
 ## 💼 Resume
