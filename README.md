@@ -19,4 +19,4 @@
 ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dan-damit&show_icons=true&theme=radical&hide_rank=true)
 
 ## 🌐 Connect
-[LinkedIn](https://www.linkedin.com/in/daniel-damit/) • [Website](https://thedamits.com)
+[LinkedIn](https://www.linkedin.com/in/daniel-damit/) • [Website](https://thedamits.com/dan/)
