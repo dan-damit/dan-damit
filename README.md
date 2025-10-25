@@ -12,7 +12,7 @@
 - Windows internals & network security
 
 ## 📂 Featured Projects
-- [Workstation.Deployment.Toolkit](https://github.com/yourhandle/Workstation.Deployment.Toolkit)
+- [Workstation.Deployment.Application](https://github.com/dan-damit/WS_Setup_6)
 - [DSC v3 Pipeline](https://github.com/dan-damit/WS_Setup_6/blob/main/WS_Setup_6.Core/Services/BaselineService.cs)
 
 ## 📊 GitHub Stats
