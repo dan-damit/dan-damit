@@ -3,6 +3,7 @@
 🚀 Deployment engineer & systems architect  
 ⚡ Specializing in modular automation, fleet-scale deployments, and technician-first tooling
 - [(and of course the IT Support)](https://thedamits.com/dan/resume.html)
+- CNO = Chief Nerd Officer of the Damit household.
 
 ## 💼 My Home Page
 - [Follow the white rabbit.](https://thedamits.com/dan)
