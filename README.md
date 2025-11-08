@@ -18,7 +18,7 @@
 - [DSC v3 Pipeline](https://github.com/dan-damit/WS_Setup_6/blob/main/WS_Setup_6.Core/Services/BaselineService.cs)
 
 ## 📊 GitHub Stats
-![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dan-damit&show_icons=true&theme=radical&hide_rank=true)
+![GitHub nerd stats](https://github-readme-stats.vercel.app/api?username=dan-damit&show_icons=true&theme=radical&hide_rank=true)
 
 ## 🌐 Connect
 [LinkedIn](https://www.linkedin.com/in/daniel-damit/) • [Website](https://dan.thedamits.com/)
