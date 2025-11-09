@@ -5,7 +5,7 @@
 - [and of course: IT Support](https://dan.thedamits.com/resume.html)
 
 ## 💼 My Home Page
-- [Follow the white rabbit.](https://dan.thedamits.com/)
+- [Follow the white rabbit](https://dan.thedamits.com/)
 
 ## 🔧 Skills
 - PowerShell, C#, WPF/XAML, WiX, NSIS
