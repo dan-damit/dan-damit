@@ -2,7 +2,7 @@
 
 🚀 Deployment engineer & systems architect  
 ⚡ Specializing in modular automation, fleet-scale deployments, and technician-first tooling
-- [and of course: IT Support](https://dan.thedamits.com/resume.html)
+- [and of course: IT Support](https://dan.thedamits.com/portfolio.html)
 
 ## 💼 My Home Page
 - [Follow the white rabbit](https://dan.thedamits.com/)
