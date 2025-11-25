@@ -17,7 +17,7 @@
 
 ## 📂 Featured Projects
 - [Workstation.Deployment.Application](https://github.com/dan-damit/WS_Setup_6)
-- [Portable personal tools]((https://github.com/dan-damit/Scripts-and-Snippets/tree/main/Portable%20EXEs)
+- [Portable personal tools](https://github.com/dan-damit/Scripts-and-Snippets/tree/main/Portable%20EXEs)
 
 ## 🌐 Connect
 [LinkedIn](https://www.linkedin.com/in/daniel-damit/) • [Website](https://dan.thedamits.com/)
