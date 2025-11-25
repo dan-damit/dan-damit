@@ -11,7 +11,7 @@
 - PowerShell, C#, WPF/XAML, WiX, NSIS
 - Fleet deployments & DSC v3
 - Windows internals & network security
-- [My Resume has all the nitty gritty](https://dan.thedamits.com/resume.html)
+- [My Portfolio has all the nitty gritty](https://dan.thedamits.com/portfolio.html)
 
 ## 📂 Featured Projects
 - [Workstation.Deployment.Application](https://github.com/dan-damit/WS_Setup_6)
