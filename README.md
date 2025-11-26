@@ -11,6 +11,7 @@
 
 ## 🔧 Skills
 - PowerShell, C#, WPF/XAML, WiX, NSIS
+- [HTML, CSS, JavaScript](https://github.com/dan-damit/Scripts-and-Snippets/tree/main/Website)
 - Fleet deployments & DSC v3
 - Windows internals & network security
 - [My Portfolio has all the nitty gritty](https://dan.thedamits.com/portfolio.html)
