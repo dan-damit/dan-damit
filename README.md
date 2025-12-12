@@ -1,6 +1,6 @@
 # Hi, I'm Dan 👋
 
-🚀 PowerShell scripting focus
+🚀 PowerShell scripting focus | Currently leveling up with SQL
 
 ⚡ Specializing in modular automation, fleet-scale deployments, and technician-first tooling
 
