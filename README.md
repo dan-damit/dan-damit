@@ -10,7 +10,7 @@
 - [Follow the white rabbit](https://dan.thedamits.com/)
 
 ## 🔧 Skills
-- [PowerShell](https://github.com/dan-damit/Scripts-and-Snippets/tree/main/PowerShell), C#, WPF/XAML, WiX, NSIS
+- [PowerShell](https://github.com/dan-damit/Scripts-and-Snippets/tree/main/PowerShell), [C#, WPF/XAML, WiX, NSIS](https://github.com/dan-damit/WS_Setup_6)
 - [HTML, CSS, JavaScript](https://github.com/dan-damit/Scripts-and-Snippets/tree/main/Website)
 - Fleet deployments & DSC v3
 - Windows internals & network security
