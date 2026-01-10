@@ -17,7 +17,7 @@
 - [My Portfolio has all the nitty gritty](https://dan.thedamits.com/portfolio.html)
 
 ## 📂 Featured Projects
-- [TechToolbox Module]([https://github.com/dan-damit/WS_Setup_6](https://github.com/dan-damit/TechToolbox))
+- [TechToolbox Module](https://github.com/dan-damit/TechToolbox)
 - [Portable personal tools](https://github.com/dan-damit/Scripts-and-Snippets/tree/main/Portable%20EXEs)
 
 ## 🌐 Connect
