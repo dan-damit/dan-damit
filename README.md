@@ -18,7 +18,7 @@
 
 ## 📂 Featured Projects
 - [TechToolbox Module](https://github.com/dan-damit/TechToolbox)
-- [Portable personal tools](https://github.com/dan-damit/Scripts-and-Snippets/tree/main/Portable%20EXEs)
+- [Workstation Setup App](https://github.com/dan-damit/WS_Setup_6)
 
 ## 🌐 Connect
 [LinkedIn](https://www.linkedin.com/in/daniel-damit/) • [Website](https://dan.thedamits.com/)
