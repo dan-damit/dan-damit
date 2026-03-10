@@ -7,7 +7,7 @@
 📝📌📎[and of course: IT Support](https://dan.thedamits.com/portfolio.html)
 
 ## 💼 My Home Page
-- [Follow the white rabbit](https://dan.thedamits.com/)
+- [Follow the white rabbit](https://thedamits.com/)
 
 ## 🔧 Skills
 - [PowerShell](https://github.com/dan-damit/Scripts-and-Snippets/tree/main/PowerShell)
