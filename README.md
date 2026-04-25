@@ -22,4 +22,4 @@
 - [Workstation Setup App](https://github.com/dan-damit/WS_Setup_6)
 
 ## 🌐 Connect
-[LinkedIn](https://www.linkedin.com/in/daniel-damit/) • [Website](https://dan.thedamits.com/)
+[LinkedIn](https://www.linkedin.com/in/daniel-damit/) • [Website](https://thedamits.com/)
