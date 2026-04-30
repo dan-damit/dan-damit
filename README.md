@@ -1,6 +1,6 @@
 # Hi, I'm Dan 👋
 
-### PowerShell scripting focus | Currently leveling up with SQL
+### PowerShell scripting focus | Currently leveling up with SQL | AI Integration
 
 📝📌📎[and of course: IT Support](https://dan.thedamits.com/portfolio.html)
 
