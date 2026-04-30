@@ -1,13 +1,13 @@
 # Hi, I'm Dan 👋
 
-### PowerShell scripting focus | Currently leveling up with SQL | AI Integration
+### PowerShell scripting focus | SQL | AI Integration
 
-📝📌📎[and of course: IT Support](https://dan.thedamits.com/portfolio.html)
+[and of course: IT Support](https://dan.thedamits.com/portfolio.html)
 
 ## My Home Page
 - [Follow the white rabbit](https://thedamits.com/)
 
-## 🔧 Skills
+## Skills
 - [PowerShell](https://github.com/dan-damit/Scripts-and-Snippets/tree/main/PowerShell)
 - [HTML, CSS, JavaScript](https://github.com/dan-damit/Scripts-and-Snippets/tree/main/Website)
 - [C#, WPF/XAML, WiX, NSIS](https://github.com/dan-damit/WS_Setup_6)
