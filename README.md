@@ -1,12 +1,10 @@
 # Hi, I'm Dan 👋
 
-🚀 PowerShell scripting focus | Currently leveling up with SQL
-
-⚡ Specializing in modular automation, fleet-scale deployments, and technician-first tooling
+### PowerShell scripting focus | Currently leveling up with SQL
 
 📝📌📎[and of course: IT Support](https://dan.thedamits.com/portfolio.html)
 
-## 💼 My Home Page
+## My Home Page
 - [Follow the white rabbit](https://thedamits.com/)
 
 ## 🔧 Skills
@@ -17,9 +15,9 @@
 - Windows internals & network security
 - [My Portfolio has all the nitty gritty](https://dan.thedamits.com/portfolio.html)
 
-## 📂 Featured Projects
+## Featured Projects
 - [TechToolbox Module](https://github.com/dan-damit/TechToolbox)
 - [Workstation Setup App](https://github.com/dan-damit/WS_Setup_6)
 
-## 🌐 Connect
+## Connect
 [LinkedIn](https://www.linkedin.com/in/daniel-damit/) • [Website](https://thedamits.com/)
