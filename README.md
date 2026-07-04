@@ -8,7 +8,7 @@
 - [Follow the white rabbit](https://thedamits.com/)
 
 ## Featured Projects
-- [PowerShell Script Archive](https://github.com/dan-damit/Scripts-and-snippets)
+- [TechToolbox PowerShell Module](https://github.com/dan-damit/TechToolbox)
 - [Workstation Setup App](https://github.com/dan-damit/WS_Setup_6)
 
 ## Connect
