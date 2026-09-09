@@ -1,6 +1,6 @@
 # Hi, I'm Dan 👋
 
-### PowerShell scripting focus | SQL | AI Integration
+### ERP & IT Analyst | PowerShell/C#/.NET | Designing Safe, Well-Governed AI Automation
 
 [and of course: IT Support](https://dan.thedamits.com/portfolio.html)
 
